@@ -82,7 +82,7 @@ Placeholder for Term Project 3
 
 ##### Project Description:  
  
-##### GitHub Portfolio: https://smunjewar.github.io/Portfolio/
+##### GitHub Portfolio: (https://github.com/chitramoy/chitramoy)
 
 ##### LinkedIn - https://www.linkedin.com/in/chitramoy-mukherjee-4a3a8218/
 
